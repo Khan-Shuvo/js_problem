@@ -1,0 +1,16 @@
+let word = "I love Bangladesh and ther people";
+
+// let count = 1;
+
+// let space =" ";
+
+// for( cha of word){
+//     if (cha === space){
+//         count++
+//     }
+//     // console.log(cha)
+// }
+
+// console.log(count)
+
+console.log(word.trim().split(" ").length)
